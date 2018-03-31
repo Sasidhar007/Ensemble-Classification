@@ -81,6 +81,7 @@ bi_nopt0['NumberOfTimesPregnant'].hist()
 
 #Scatterplot
 plt.scatter(data['Class'],data['NumberOfTimesPregnant'])
+#just made a change
 
 
 # In[21]:
